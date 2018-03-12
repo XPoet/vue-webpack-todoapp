@@ -6,9 +6,9 @@
 注意：因为此源码的Webpack版本为4.0.0以上，导致有些API弃用，所以跟视频中的代码有一点点不同，在代码中具体位置有详细注明和解释，适合大家参考，共同学习。
 
 #### 使用须知
-**1、使用&参考此源码，需要您对HTML、CSS、JavaScript、Node.js、NPM等有一定的了解和实践。**  
+- **使用&参考此源码，需要您对HTML、CSS、JavaScript、Node.js、NPM等有一定的了解和实践。**  
 
-2、Node.js、NPM均已正确安装好。检测Node.js是否安装成功，命令窗口[cmd]`$ node -v`。若出现具体的版本号，表示安装成功。  
+- Node.js、NPM均已正确安装好。检测Node.js是否安装成功，命令窗口[cmd]`$ node -v`。若出现具体的版本号，表示安装成功。  
 
 ![Node.js是否安装成功检测](http://ojzaff7fe.bkt.clouddn.com/nodejs%E7%89%88%E6%9C%AC%E6%A3%80%E6%B5%8B.jpg)
 
@@ -28,5 +28,6 @@
 
 
 #### 项目预览
+- 预览网址：http://todoapp.itpoet.cn/
 
 **未完待续。。。**

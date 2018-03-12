@@ -1,3 +1,10 @@
+#footer {
+  margin: 40px;
+  text-align: center;
+  color: #eee;
+  font-size: 15px;
+  text-shadow: 0 3px 0 2px #eee;
+}
 html,
 body {
   margin: 0;
@@ -12,11 +19,4 @@ body {
   font: 14px 'microsoft yahei';
   color: #333;
   font-weight: 500;
-}
-#footer {
-  margin: 40px;
-  text-align: center;
-  color: #eee;
-  font-size: 15px;
-  text-shadow: 0 3px 0 2px #eee;
 }

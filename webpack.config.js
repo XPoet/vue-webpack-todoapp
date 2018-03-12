@@ -71,6 +71,8 @@ if (isDev) {
             errors: true,
         },
         // open: true,
+
+        // 不刷新热加载数据
         hot: true
     };
     config.plugins.push(
