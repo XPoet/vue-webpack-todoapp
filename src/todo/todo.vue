@@ -18,6 +18,12 @@
                   @del="deleteTodo"
         >
         </APP_Item>
+        <!--
+            用 key 管理可复用的元素
+            Vue 会尽可能高效地渲染元素，通常会复用已有元素而不是从头开始渲染。
+            这么做除了使 Vue 变得非常快之外，还有其它一些好处。
+        -->
+
 
         <!-- 使用tabs组件 -->
         <APP_Tabs :filter="filter"
