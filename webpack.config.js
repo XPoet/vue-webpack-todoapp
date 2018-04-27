@@ -103,7 +103,7 @@ if (isDev) {
         })
     });
     config.plugins.push(
-        new ExtractPlugin('styles.[contentHash:8].css'),
+        new ExtractPlugin('styles.[contentHash:8].css')
 
         // // 将类库文件单独打包出来
         // new webpack.optimize.CommonsChunkPlugin({
