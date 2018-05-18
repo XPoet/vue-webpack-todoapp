@@ -29,5 +29,3 @@
 
 #### 项目预览
 - 预览网址：http://itpoet.cn/vue-webpack-dist-todoapp/
-
-**未完待续。。。**
