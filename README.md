@@ -28,4 +28,4 @@
 
 
 #### 项目预览
-- 预览网址：http://itpoet.cn/vue-webpack-dist-todoapp/
+- 预览网址：https://itpoet.cn/vue-webpack-dist-todoapp/
